@@ -6,15 +6,15 @@ session_start();
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>PHP Social Network</title>
+    <title>PHP Login System</title>
     <link href="./css/style.css" rel="stylesheet" />
     <link href="./css/userform.css" rel="stylesheet" />
   </head>
   <body>
     <header>
-    <h1>PHP Social Network</h1>
+    <h1>PHP Login System</h1>
     <hr class="largescreens-only" />
-    <p class="largescreens-only">A free and open source social network.</p>
+    <p class="largescreens-only">A free and open source login system.</p>
     </header>
     <main>
       <?php
