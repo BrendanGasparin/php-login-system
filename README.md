@@ -1,7 +1,7 @@
 # php-login-system
 A free and open source login system built in PHP, HTML, CSS, and JavaScript, with a MySQL database.
 
-PHP Social Network was adapted from this [YouTube video tutorial](https://youtube.com/watch?v=BaEm2Qv14oU) by Dani Krossing.
+PHP Login System was adapted from this [YouTube video tutorial](https://youtube.com/watch?v=BaEm2Qv14oU) by Dani Krossing.
 
 ## Installation
 Clone the repository to your server of choice. Note that the root of the website should be the /public_html/ directory and not the root directory of the repository.
